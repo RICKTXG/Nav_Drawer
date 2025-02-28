@@ -15,5 +15,4 @@ fun Screen1(modifier: Modifier = Modifier) {
         contentAlignment = Alignment.Center,){
         Text(text = "Screen 1")
     }
-    
 }
